@@ -8,7 +8,7 @@ This repository was created aiming to provide an example on how to create an bas
 
 First of all, you will find a file called: **"main.js"**. There you can find two variable where you can add your respective credentials.
 
-After editing the script, Simply run the **"main.js"** file with:"
+After editing the script, Simply run the **"main.js"** file with:
 
 ```shell
 > node main.js
